@@ -7,5 +7,7 @@ start matlab, and in command window you type
 ```
 
 Here is a screenshot
+
+
 ![Alt text](https://github.com/lbaitemple/matlabRoomba/blob/master/pictures/bai.jpg "screen shot")
 
