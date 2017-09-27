@@ -5,3 +5,6 @@ start matlab, and in command window you type
 ```
 >>simulink
 ```
+
+Here is a screenshot
+[img]https://github.com/lbaitemple/matlabRoomba/blob/master/pictures/bai.jpg[/img]
